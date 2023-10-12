@@ -1,0 +1,42 @@
+[
+    {
+        "id": "a8a692e7-3126-42f7-95c3-d909e0ae9ae4",
+        "name": "1st floor",
+        "available": true,
+        "desks": [
+            {
+                "id": "59706672-9e53-47e7-a6fa-292787e255df",
+                "name": "453",
+                "available": true,
+                "user": null,
+                "equipements": [
+                    "USB hub",
+                    "dual screen"
+                ],
+                "pos": [
+                    18.2545,
+                    25.155
+                ]
+            },
+            {
+                "id": "59706672-9e53-47e7-a6fa-292787e255d4",
+                "name": "454",
+                "available": true,
+                "user": null,
+                "equipements": [
+                    "USB hub"
+                ],
+                "pos": [
+                    24.2545,
+                    25.155
+                ]
+            }
+        ]
+    },
+    {
+        "id": "03eb7fa0-b18d-49f4-b0b0-5aeb080a1141",
+        "name": "2st floor",
+        "available": false,
+        "desks": []
+    }
+]
